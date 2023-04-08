@@ -7,7 +7,7 @@ This repo is for posting all my newbie projects and stuff
 int main() {
     int git_commit = 1;
     while (1) {
-        printf("With every git commit, I Dragonixj evolve...\n");
+        printf("With every git commit,Dragonixj evolves...\n");
         git_commit++;
     }
     return 0;
