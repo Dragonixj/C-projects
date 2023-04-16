@@ -30,3 +30,10 @@ cd Beginner-C-projects/Number_guessing_game/
 ```
 ./guessgame.c
 ```
+
+**If you find any issues with the code or have any suggestions for improvement
+feel free to submit a pull request or open an issue on the GitHub repository.**
+
+AUTHOR
+
+> > Dragonixj
