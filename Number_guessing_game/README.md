@@ -16,10 +16,15 @@ git clone https://github.com/Dragonixj/Beginner-C-projects
 cd Beginner-C-projects/Number_guessing_game/
 ```
 
+---
+
 - Compile the program using the following command
   ```
   gcc guessgame_1.c -o guessgame
   ```
+
+---
+
 - RUN THE PROGRAM
 
 ```
