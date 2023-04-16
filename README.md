@@ -7,6 +7,7 @@ my learning journey.
 
 To run the files
 - Clone the repo
+```
 git clone https://github.com/Dragonixj/Beginner-C-projects
 ```
 
