@@ -3,9 +3,6 @@
 This repo is for posting all the Beginer projects i have done for
 my learning journey.
 
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
-     width="500"
-     height="500">
 
 To run the files
 - Clone the repo
