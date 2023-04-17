@@ -48,6 +48,17 @@ This is a simple C code that tells the range of an imputed # using a an if state
 
 ---
 
+### multable.c
+
+- This is a code that makes use of C file I/O manipulation
+- It prompts the user for the multiplication number set you want
+- It then asks for the range of the table -> infinite
+- It then craft a table in a file "table.txt"
+- The last part of the code outputs the content of the table
+  onto the terminal.
+
+---
+
 **If you find any issues with the code or have any suggestions for improvement,
 feel free to submit a pull request or open an issue on the GitHub repository.**
 
