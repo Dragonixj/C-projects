@@ -4,7 +4,8 @@ A bunch of different calculators and checkers
 
 ### calculator.c
 
-This is a simple C program that acts as a calculator. It allows users to perform basic arithmetic operations such as:
+This is a simple C program that acts as a calculator. It allows users
+to perform basic arithmetic operations such as:
 
 - addition
 - subtraction
@@ -12,6 +13,14 @@ This is a simple C program that acts as a calculator. It allows users to perform
 - division
 - exponents/power
 - Modulo
+
+---
+
+### Cal1.0.c
+
+This is an updated version of the calculator.c with more functions and more or less like a scientific calculator
+
+- Work in progress though!!!!!
 
 ---
 
