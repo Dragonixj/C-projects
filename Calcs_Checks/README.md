@@ -1,4 +1,4 @@
-# A simple calculator
+# CALCULATORS && CHECKERS
 
 A bunch of different calculators and checkers
 
@@ -13,6 +13,8 @@ This is a simple C program that acts as a calculator. It allows users to perform
 - exponents/power
 - Modulo
 
+---
+
 ### circumference-area.c
 
 This is a simple C program that calculates both the
@@ -22,6 +24,8 @@ circumference and area of a circle, given its radius.
   on what they will like to calculate
 - It then asks for the radius
 - The program then displays the calculated value to the user.
+
+---
 
 ### Psqr.c
 
