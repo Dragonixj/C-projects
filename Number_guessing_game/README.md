@@ -35,4 +35,4 @@ cd Beginner-C-projects/Number_guessing_game/
 feel free to submit a pull request or open an issue on the GitHub repository.**
 
 AUTHOR
-Dragonixj
+<a href = "https://github.com/Dragonixj">Dragonixj</a>
