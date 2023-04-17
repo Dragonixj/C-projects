@@ -31,8 +31,18 @@ circumference and area of a circle, given its radius.
 
 This is a code that tells the user if the inputed number is a perfect square-> An integer that can be expressed as the square of another integer.
 
+---
+
+### range1.0.c
+
+This is a simple C code that tells the range of an imputed # using a an if statement nested in a do-while loop.
+
+---
+
 **If you find any issues with the code or have any suggestions for improvement,
 feel free to submit a pull request or open an issue on the GitHub repository.**
+
+---
 
 AUTHOR
 Dragonixj
