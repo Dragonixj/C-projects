@@ -3,10 +3,10 @@
 int main() {
   int range, num;
 
-  printf("Enter the multiplication table number set  you want");
+  printf("Enter the multiplication table number set  you want: ");
   scanf("%d", &num);
 
-  printf("Enter the range of the multiplication table");
+  printf("Enter the range of the multiplication table: ");
   scanf("%d", &range);
 
   // initiating the file name and writing content into it

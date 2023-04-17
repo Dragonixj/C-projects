@@ -57,6 +57,24 @@ This is a simple C code that tells the range of an imputed # using a an if state
 - The last part of the code outputs the content of the table
   onto the terminal.
 
+  ```
+    $ ./multable
+    $ Enter the multiplication table number set  you want: 5
+    $ Enter the range of the multiplication table: 10
+    $Multiplication Table of 5 generated successfully.
+    5 X 1 = 5
+    5 X 2 = 10
+    5 X 3 = 15
+    5 X 4 = 20
+    5 X 5 = 25
+    5 X 6 = 30
+    5 X 7 = 35
+    5 X 8 = 40
+    5 X 9 = 45
+    5 X 10 = 50
+
+  ```
+
 ---
 
 **If you find any issues with the code or have any suggestions for improvement,
