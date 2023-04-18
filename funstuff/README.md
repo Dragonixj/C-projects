@@ -1,5 +1,5 @@
-## Games
+## Funstuff
 
-### guessgame_1.c
+- Number Guessing Game
 
-- A simple C guessing game
+- ATM working on it :warning: :warning:
