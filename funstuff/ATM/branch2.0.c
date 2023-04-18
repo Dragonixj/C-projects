@@ -1,4 +1,3 @@
-#include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -10,7 +9,7 @@
 typedef struct {
   char name[50];
   char pin[MAX_PIN_LENGTH + 1]; // +1 for  a null terminator
-  char accNum[20];
+  long long accNum;
   float balance;
 } User;
 
@@ -33,19 +32,23 @@ void UpdateUserDetails();
 int main() {
   // Local Declarations
 
-  bool again = true;
+  int again = 1;
 
   // Read User data from file
 
   FILE *fp = fopen("User.dat", "r");
   if (fp == NULL) {
-    printf("Error! Cannot open the user.dat file\n");
+    fprintf(stderr, "Error! Cannot open the user.dat file\n");
     exit(1);
   }
 
-  while (fscanf(fp, " %s %s %s %f", users[numUsers].name, users[numUsers].pin,
-                users[currentUserIndex].accNum,
-                &users[numUsers].balance) == 3) {
+  while (fscanf(fp, "%s %s %lld %f", users[numUsers].name, users[numUsers].pin,
+                &users[numUsers].accNum, &users[numUsers].balance) != EOF) {
+
+#ifdef DEBUG
+    printf("%s | %s | %lld | %2f\n", users[numUsers].name, users[numUsers].pin,
+           users[numUsers].accNum, users[numUsers].balance);
+#endif
     numUsers++;
   }
   fclose(fp);
@@ -54,7 +57,7 @@ int main() {
   // perform login
   login();
   //
-  while (true) {
+  while (1) {
     MainMenu();
 
     int option;
@@ -128,7 +131,7 @@ void WithdrawMoney() {
 
   float withdraw;
   char pin[5];
-  bool back = true;
+  int back = 1;
 
   printf("You choose to Withdraw a money\n");
   printf("$$$$Your Balance is: $%.2f\n\n", users[currentUserIndex].balance);
