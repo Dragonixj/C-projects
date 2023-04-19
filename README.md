@@ -5,8 +5,10 @@ of the C programming language.
 A little desription will be provided for each program so you could
 try to do it on your own as practice or reference.
 
+## Projects
+
 <details>
-<summary>## Beginner_Level</summary>
+<summary>Beginner_Level</summary>
 
 - **calculator.c**
 
