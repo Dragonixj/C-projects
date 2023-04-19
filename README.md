@@ -14,7 +14,7 @@ git clone https://github.com/Dragonixj/Beginner-C-projects
 - Change direcory into the the the repo and navigate into the program directory and compile the **.c** file
 
 ```
-cd Beginner-C-projects/*Programdirectory*
+cd Beginner-C-projects/Programdirectory
 gcc file.c -o file
 ```
 
