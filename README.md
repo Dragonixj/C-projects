@@ -23,6 +23,7 @@ gcc file.c -o file
 ```
 ./file
 ```
+*where file is the name of the code*
 
 **If you find any issues with the code or have any suggestions for improvement,
 feel free to submit a pull request or open an issue on the GitHub repository.**
