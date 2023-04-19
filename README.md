@@ -5,6 +5,28 @@ of the C programming language.
 A little desription will be provided for each program so you could
 try to do it on your own as practice or reference.
 
+## Cloning
+
+- To clone this repo for reference or ideas for your own pragrammes;
+
+```
+git clone https://github.com/Dragonixj/C-projects
+cd C-projects/
+```
+
+- To run any of the programmes
+  - Navigate into the sub directory
+  - and compile the code
+  - And then run the file
+
+```
+cd Beginner_Level/ || cd Intermediate_level
+
+gcc file.c -o file
+
+./file
+```
+
 ## Projects
 
 <details>
