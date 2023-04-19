@@ -5,8 +5,7 @@ of the C programming language.
 A little desription will be provided for each program so you could
 try to do it on your own as practice or reference.
 
-<details>
-<summary>## Beginner_Level</summary>
+## Beginner_Level
 
 - **calculator.c**
 
@@ -38,5 +37,5 @@ try to do it on your own as practice or reference.
 
 - **Palindrome.c**
   - This is a programme that checks if a string entered by the user is a palindrome.
-  - A Palindrome is simply a word, that reads the same backward or forward. - Level, mom, rotator, racecar.
-  </details>
+  - A Palindrome is simply a word, that reads the same backward or forward.
+    - Level, mom, rotator, racecar.
