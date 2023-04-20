@@ -97,13 +97,13 @@ where **your-name** is you.
 ### Create a new branch
 
 Change to the repo directory on your computer (if you aren't already there):
-`    cd C-projects
-       `
+`   cd C-projects
+      `
 now create a new branch using the `git switch` command
-`    git switch -c your-branch-name
-   `
+`   git switch -c your-branch-name
+  `
 Example:
-`    git switch -c apple
+`git switch -c apple
    `
 Now make necessary changes
 
@@ -118,10 +118,12 @@ git commit -m "program made"
 git push -u origin your-branch-name
 ```
 
+       `
+
 replace `your-branch-name` with the branch you created from the example `apple`.
 
 <details>
 <summary>If you face issues pushing</summary>
-check [Github's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)on generating and configuring an ssh Key for your account.
+check [Github's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an ssh Key for your account.
 Or you can also contact me if you need help
 </details>
