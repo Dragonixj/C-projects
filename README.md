@@ -64,3 +64,32 @@ gcc file.c -o file
   - This is a programme that checks if a string entered by the user is a palindrome.
   - A Palindrome is simply a word, that reads the same backward or forward. - Level, mom, rotator, racecar.
   </details>
+
+---
+
+## Contributing
+
+### Fork this repository.
+
+- Fork this repo by clicking on the fork button on the top of this page.
+  This will create a copy of this repository in your account.
+
+### Clone this repository
+
+- Now clone the forked repository to your machine.
+  Go to your GitHub account, open the forked repository, click on the code button and then click to copy to clipboard.
+
+Open a terminal and run the command
+
+```
+git clone "url you just copied"
+```
+
+Don't include the quotation marks.
+For example
+
+```
+git clone https://github.com/your-name/C-projects.git
+```
+
+where **your-name** is you.
