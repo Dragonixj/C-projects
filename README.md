@@ -76,8 +76,10 @@ gcc file.c -o file
   - It creates a file table.txt with the crafted table stored
   - And prints out the content of the .txt file
 
-- ATM - A simple ATM - Inspo from itsourcecode.com - Still a work in progress, but runnable
-:warning::warning:
+- ATM
+
+- A simple ATM - Inspo from itsourcecode.com -
+Still a work in progress, but runnable :warning::warning:
 </details>
 
 ---
