@@ -100,7 +100,11 @@ Change to the repo directory on your computer (if you aren't already there):
 `cd C-projects
    `
 now create a new branch using the `git switch` command
-`git switch -c your-branch-name`
+
+```
+git switch -c your-branch-name
+```
+
 Example:
 `git switch -c apple
    `
