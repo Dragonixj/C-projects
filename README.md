@@ -98,8 +98,8 @@ gcc file.c -o file
 
 - Now clone the forked repository to your machine.
   Go to your GitHub account, open the forked repository, click on the code button and then click to copy to clipboard.
-
-Open a terminal and run the command
+  <img align="right" src="./readmeimg/2023-04-20_09-00.png">
+  Open a terminal and run the command
 
 ```
 git clone "url you just copied"
