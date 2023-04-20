@@ -26,7 +26,7 @@ gcc file.c -o file
 
 ./file
 ```
-
+---
 ## Projects
 
 <details>
