@@ -26,7 +26,9 @@ gcc file.c -o file
 
 ./file
 ```
+
 ---
+
 ## Projects
 
 <details>
@@ -63,7 +65,20 @@ gcc file.c -o file
 - **Palindrome.c**
   - This is a programme that checks if a string entered by the user is a palindrome.
   - A Palindrome is simply a word, that reads the same backward or forward. - Level, mom, rotator, racecar.
-  </details>
+    </details>
+  <details>
+  <summary>Intermediate_level</summary>
+- multable.c
+
+  - A simple Multiplication table printer
+  - It asks a user for the # they want a table of
+  - It then asks for a range
+  - It creates a file table.txt with the crafted table stored
+  - And prints out the content of the .txt file
+
+- ATM - A simple ATM - Inspo from itsourcecode.com - Still a work in progress, but runnable
+:warning::warning:
+</details>
 
 ---
 
