@@ -92,6 +92,7 @@ gcc file.c -o file
 
 - Fork this repo by clicking on the fork button on the top of this page.
   This will create a copy of this repository in your account.
+  <img href = "./readmeimg/2023-04-20_08-59.png" align right/>
 
 ### Clone this repository
 
