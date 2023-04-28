@@ -21,7 +21,7 @@ int main() {
     } else if (input >= 401 && input <= 500) {
       printf("Your number is between 401 and 500.\n");
     } else {
-      printf("We have no such range of values.\n");
+      printf("The number is out of stipulated Range\n");
     }
 
     printf("Do you want to continue (Y/N)?\n");
