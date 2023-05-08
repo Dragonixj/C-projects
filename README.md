@@ -81,6 +81,7 @@ gcc file.c -o file
   - A simple ATM
   - Inspo from itsourcecode.com
   - Still a work in progress, but runnable :warning::warning:
+  - Utilizes file manipulation, functions,structs...
 
 </details>
 
@@ -88,7 +89,7 @@ gcc file.c -o file
 
 ## Contributing
 
-### Fork this repository.
+### Fork this repository
 
 - Fork this repo by clicking on the fork button on the top of this page.
   This will create a copy of this repository in your account.
