@@ -82,6 +82,7 @@ gcc file.c -o file
   - Inspo from itsourcecode.com
   - Still a work in progress, but runnable :warning::warning:
   - Utilizes file manipulation, functions,structs...
+  - **misc** -> just a file ill sort out later
 
 </details>
 
