@@ -67,7 +67,7 @@ int main() {
     break;
   case 6:
     result = modulo(a, b);
-    printf("%d % %d = %d\n", a, b, result);
+    printf("%d mod %d = %d\n", a, b, result);
     break;
   default:
     printf("ERROR: invalid choice\n");

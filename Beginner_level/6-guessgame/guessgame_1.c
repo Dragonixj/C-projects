@@ -8,8 +8,9 @@ int main() {
   int guess;
   int attempts = 0;
 
-  printf("Welcome to the guessing game!\n Can you guess the number I'm "
-         "thinking of between 1 and 100?\n");
+  printf("Welcome to the guessing game!\n");
+  printf("Can you guess the number I'm thinking of between 1->100\n");
+  printf("You have 10 attempts\n");
 
   do {
     printf("Enter your guess: ");
